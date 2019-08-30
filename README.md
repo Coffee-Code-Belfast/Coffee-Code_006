@@ -22,7 +22,7 @@ Python Tutorial on Codecademy
 
 
 ### Setup 
-We will be using Google Colab to complete the exercises. What is Google Colab
+We will be using Google Colab to complete the exercises. [What is Google Colab](https://research.google.com/colaboratory/faq.html)
 
 Feel free to work on the exercises and challenges with a partner. Paired programming in awesome. Mob programming is cool too!
 
