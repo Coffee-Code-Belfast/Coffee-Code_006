@@ -1,5 +1,6 @@
 # Coffee&amp;Code#006: Data Structures &amp; Algorithms
 ### Created by Ciara Magee
+### Guest mentor: David Cutting
 
 ## Data Structures and Algorithms
 
