@@ -67,6 +67,6 @@ https://www.geeksforgeeks.org/python-implementation-automatic-tic-tac-toe-game-u
 Some things to think about
 What is battleships
 
-Resources to help with Battleships
-Link to battleships colab (currently in progress)
+Resources to help with Battleships:
+* Link to battleships colab (currently in progress)
 
